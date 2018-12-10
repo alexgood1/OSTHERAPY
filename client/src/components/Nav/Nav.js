@@ -7,7 +7,7 @@ const Nav = () => (
   {/* <div className="row">  */}
       {/* <div className="col-md-2"> */}
         <a className="navbar-brand" href="/">
-          MERN w/ Passport!
+          Orthopedic & Sports Therapy, Inc.
         </a>
       {/* </div> */}
       {/* <div className="col-md-5"></div> */}

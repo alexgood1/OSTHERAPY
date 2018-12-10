@@ -66,7 +66,7 @@ class SignUp extends Component {
     return (
       <div>
         <div className="dead-center">
-          <h2 className="center">Join Us!</h2>
+          <h3 className="center">CREATE PATIENT ACCOUNT</h3>
           <Card>
 
             <form>

@@ -4,7 +4,6 @@ const passport = require("passport");
 const LocalStrategy = require("passport-local");
 const GoogleStrategy = require("passport-google-oauth20");
 const FacebookStrategy = require("passport-facebook");
-const MeetupStrategy = require('passport-meetup').Strategy;
 const keys = require("../keys.js");
 const User = require("../models/user.js");
 //middleware to encrypt passwords

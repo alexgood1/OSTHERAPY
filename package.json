@@ -1,7 +1,7 @@
 {
-  "name": "mern-passport",
+  "name": "OSTherapy",
   "version": "1.0.0",
-  "description": "",
+  "description": "Privately Owned Physical Therapy Clinics Patient Website",
   "main": "server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run server || npm run dev",
@@ -14,7 +14,7 @@
     "installDeps": "yarn && cd client && yarn",
     "heroku-postbuild": "npm run build"
   },
-  "author": "",
+  "author": "Alexandra Goodwin",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^3.6.0",

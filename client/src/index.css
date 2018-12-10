@@ -1,5 +1,10 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: Europa-Regular, sans-serif;
+}
+
+.fa-events-icons-ready {
+  background-image: url("pages/images/AdobeStock_128248183.jpeg");
+  background-repeat: no-repeat;
 }

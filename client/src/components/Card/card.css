@@ -1,6 +1,8 @@
 .mern-card {
-  padding: 20px;
-  border: solid 2px black;
-  border-radius: 5px;
-  background-color: rgb(14,84,154);
+  padding: 55px 100px 125px 100px;
+  /*background-color: rgb(91, 131, 201);*/
+  border: #5079b3;
+  border-radius: 3px;
+  border-width: 3px;
+  border-style: solid;
 }

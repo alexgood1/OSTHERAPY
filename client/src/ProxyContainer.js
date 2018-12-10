@@ -3,7 +3,7 @@ import NoMatch from "./pages/NoMatch";
 import Nav from "./components/Nav";
 import Landing from "./pages/Landing/Landing.js";
 import Home from "./pages/Home/Home.js";
-import SP from "./components/SP/SP.js"
+import SP from "./components/OST/OST.js"
 import API from "./utils/API"
 import { BrowserRouter as Router, Route, Switch, Link, Redirect } from "react-router-dom";
 

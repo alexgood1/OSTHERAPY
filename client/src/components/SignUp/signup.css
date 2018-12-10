@@ -1,3 +1,9 @@
 .center {
   text-align: center;
+  color: #f7f7f7;
+  text-emphasis: -moz-mac-accentdarkestshadow;
+  text-shadow: .6px .6px .6px #020811;
+}
+h3{
+  padding-bottom: 20px;
 }
